@@ -1,11 +1,11 @@
-/* Diagnostic Styling */
+/* Diagnostic Styling
 * {
   outline: 2px dotted gray;
-} 
+}  */
 
-/* temp background color */
+
 body {
-    background: lightgray;
+    background: lightblue;
 }
   
 /* vertical and horizontal centering */

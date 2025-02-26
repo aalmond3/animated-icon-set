@@ -53,7 +53,7 @@ left: 0%;
 }
 
 .flower svg {
-fill: lightyellow; 
+fill: rgb(241, 231, 85); 
   transform: scale(1.5);
   position: relative;
   top: 120px; 
